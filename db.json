@@ -1,49 +1,123 @@
 {
-    "users":[
-        {
-            "username":"praveen",
-            "password":"123",
-            "role":"manager",
-            "id":1
-        },
-        {
-            "username":"dhritiman",
-            "password":"123",
-            "role":"manager",
-            "id":2
-        },
-        {
-            "username":"rohit",
-            "password":"123",
-            "role":"employee",
-            "id":3
-        },
-        {
-            "username":"govind",
-            "password":"123",
-            "role":"employee",
-            "id":4
-        },
-        {
-            "username":"divya",
-            "password":"123",
-            "role":"customer",
-            "id":5
-        },
-        {
-            "username":"anita",
-            "password":"123",
-            "role":"customer",
-            "id":6
-        }
-    ],
-    "tickets":[],
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+  "users": [
+    {
+      "username": "praveen",
+      "password": "123",
+      "role": "manager",
+      "id": 1
+    },
+    {
+      "username": "dhritiman",
+      "password": "123",
+      "role": "manager",
+      "id": 2
+    },
+    {
+      "username": "rohit",
+      "password": "123",
+      "role": "employee",
+      "id": 3
+    },
+    {
+      "username": "govind",
+      "password": "123",
+      "role": "employee",
+      "id": 4
+    },
+    {
+      "username": "divya",
+      "password": "123",
+      "role": "customer",
+      "id": 5
+    },
+    {
+      "username": "anita",
+      "password": "123",
+      "role": "customer",
+      "id": 6
+    }
+  ],
+  "tickets": [
+    {
+      "issue": "lift problem",
+      "productName": "edupoly",
+      "image": "",
+      "date": 1698558170609,
+      "customerId": 5,
+      "id": 3
+    },
+    {
+      "issue": "water issue",
+      "productName": "ashjdfgsja",
+      "image": "",
+      "date": 1698558170609,
+      "customerId": 5,
+      "id": 4
+    },
+    {
+      "issue": "power issue",
+      "productName": "mxcnbvxmc",
+      "image": "",
+      "date": 1698558170609,
+      "customerId": 5,
+      "id": 5
+    },
+    {
+      "issue": "cleaning issue",
+      "productName": "cvdjkf",
+      "image": "",
+      "date": 1698558393847,
+      "customerId": 5,
+      "id": 6
+    },
+    {
+      "issue": "watch man",
+      "productName": "xcmnvbx",
+      "image": "",
+      "date": 1698558393847,
+      "customerId": 5,
+      "id": 7
+    },
+    {
+      "issue": "xmncbv",
+      "productName": "dfxdf",
+      "image": "",
+      "date": 1698558516605,
+      "customerId": 5,
+      "id": 8
+    },
+    {
+      "issue": "xcvxcv",
+      "productName": "yuiyui",
+      "image": "",
+      "date": 1698558525487,
+      "customerId": 5,
+      "id": 9
+    },
+    {
+      "issue": "cmnvbmcv",
+      "productName": "poityh",
+      "image": "",
+      "date": 1698558535095,
+      "customerId": 5,
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-  
