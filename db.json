@@ -52,7 +52,8 @@
       "image": "",
       "date": 1698558170609,
       "customerId": 5,
-      "id": 4
+      "id": 4,
+      "employeeId": "4"
     },
     {
       "issue": "power issue",
@@ -68,7 +69,8 @@
       "image": "",
       "date": 1698558393847,
       "customerId": 5,
-      "id": 6
+      "id": 6,
+      "employeeId": "3"
     },
     {
       "issue": "watch man",
@@ -101,6 +103,22 @@
       "date": 1698558535095,
       "customerId": 5,
       "id": 10
+    },
+    {
+      "issue": "need ac",
+      "productName": "Samsung",
+      "image": "",
+      "date": 1699161724323,
+      "customerId": 6,
+      "id": 11
+    },
+    {
+      "issue": "reduce AC bill",
+      "productName": "VOltas",
+      "image": "",
+      "date": 1699162198502,
+      "customerId": 6,
+      "id": 12
     }
   ],
   "posts": [
